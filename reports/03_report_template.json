@@ -1,0 +1,9 @@
+{
+  "report_id": 3,
+  "project": "physician_graded_test_set",
+  "status": "template_only",
+  "sample_size": null,
+  "metrics": {},
+  "clinical_validation": false,
+  "notes": "Populate after approved study and real evaluation."
+}
