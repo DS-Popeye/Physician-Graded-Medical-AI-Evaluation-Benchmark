@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Provenance Template",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "synthetic": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": true,
+  "description": "Draft schema; refine and lock before formal evaluation."
+}
