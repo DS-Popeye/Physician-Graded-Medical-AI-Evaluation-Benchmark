@@ -1,0 +1,9 @@
+{
+  "experiment_id": 16,
+  "seed": 56,
+  "dataset": "synthetic_only",
+  "task": "physician_graded_test_set",
+  "threshold": 0.62,
+  "use_real_patient_data": false,
+  "clinically_validated": false
+}
