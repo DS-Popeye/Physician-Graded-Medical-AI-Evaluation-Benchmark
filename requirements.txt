@@ -1,0 +1,1 @@
+# Standard-library-only prototype; Python >=3.10
