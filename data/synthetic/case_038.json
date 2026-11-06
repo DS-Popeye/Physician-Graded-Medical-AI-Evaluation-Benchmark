@@ -1,0 +1,12 @@
+{
+  "case_id": "SYN-038",
+  "synthetic": true,
+  "note": "Synthetic teaching record 038. Observed clue_gamma and clue_delta. No real patient information.",
+  "reference_label": "synthetic_condition_beta",
+  "physician_reviewed": false,
+  "source": "generated toy example",
+  "clues": [
+    "clue_gamma",
+    "clue_delta"
+  ]
+}
